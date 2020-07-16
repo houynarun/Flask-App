@@ -1,3 +1,0 @@
-#!/home/narun/Documents/project-vb/test-static/venv/bin/python
-
-from eod import app

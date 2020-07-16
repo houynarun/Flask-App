@@ -1,5 +1,0 @@
-#!/home/narun/Documents/project-vb/test-static/venv/bin/python
-
-from migration.migration import ObjMigration
-
-ObjMigration.execute()
