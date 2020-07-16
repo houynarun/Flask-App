@@ -1,0 +1,14 @@
+MANIFEST.in
+NEWS.rst
+favo.png
+run.py
+setup.py
+app/__init__.py
+app/static/style.css
+app/templates/templ/index.html
+mktpip.egg-info/PKG-INFO
+mktpip.egg-info/SOURCES.txt
+mktpip.egg-info/dependency_links.txt
+mktpip.egg-info/entry_points.txt
+mktpip.egg-info/not-zip-safe
+mktpip.egg-info/top_level.txt

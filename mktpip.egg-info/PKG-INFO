@@ -1,0 +1,17 @@
+Metadata-Version: 1.2
+Name: mktpip
+Version: 0.0.1
+Summary: mktpip is command-line utility for install python private repository.
+Home-page: https://www.morakot.it
+Author: Rim Sovankiry
+Author-email: sovankiry@morakot.it
+License: Morakot Technology
+Project-URL: Feature Suggestion, ['fa fa-question', 'https://support.morakot.it/projects/new-feature/roadmap']
+Project-URL: Source Code, https://git.morakot.it/toplevel/mktpip
+Project-URL: Documentation, http://research-development.gitlab-pages.morakot.it/docs/vb-docs
+Project-URL: Realease Note, ['fa fa-bullhorn', 'https://git.morakot.it/toplevel/mktpip/blob/dev/NEWS.rst']
+Project-URL: Bug Tracker, https://support.morakot.it/projects/bug?jump=welcome
+Description: long_description
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2 :: Only
+Classifier: Operating System :: OS Independent

@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: testpackage
+Version: 0.3.0
+Summary: Testing Package
+Home-page: https://www.mypip.it
+Author: QA
+Author-email: qa@mypip.it
+License: Testing MIT
+Description: Testing Package
+Platform: UNKNOWN
+Classifier: Topic :: Software Development :: Quality Assurance

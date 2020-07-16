@@ -1,0 +1,4 @@
+graft app
+include .VERSION
+include run.py
+global-exclude *.pyc
