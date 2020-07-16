@@ -1,0 +1,6 @@
+# venv
+venv/
+
+# build and dist
+bulid/
+dist/
